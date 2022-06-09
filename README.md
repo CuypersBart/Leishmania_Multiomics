@@ -1,4 +1,4 @@
-# Leishmania_Multiomics
+# Leishmania Multiomics
 
 This repository contains the two jupyter notebooks that were used to generate the results from the manuscript:
 "Four layer multi-omics reveals molecular responses to aneuploidy in Leishmania" by Cuypers Bart et al.
